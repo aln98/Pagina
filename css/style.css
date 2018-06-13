@@ -1,0 +1,43 @@
+.fondo {
+    background: black;
+    height: 100vh;
+}
+
+.fondo2 {
+    background: black;
+    height: 100%;
+}
+
+.espacio0 {
+    height: 5vh;
+    background: black;
+}
+
+.espacio1 {
+    height: 10vh;
+    background: black;
+}
+
+.encabezado1 {
+    background-color: #ff400d;
+    height: 50px;
+    border: 4px;
+    border-style: solid;
+    border-color: #3b59ff;
+}
+
+.encabezado2 {
+    background-color: #ff400d;
+    height: 100px;
+    border: 4px;
+    border-style: solid;
+    border-color: #3b59ff;
+}
+
+.encabezado3 {
+    background-color: #ff400d;
+    height: 150px;
+    border: 4px;
+    border-style: solid;
+    border-color: #3b59ff;
+}

@@ -1,0 +1,61 @@
+body{
+	background-color: #edf3ff;
+	font-family: 'Lato', sans-serif;
+}
+
+h2{
+	color: #498dfc;
+}
+
+img{
+	width: 100%;
+	margin-left: 10px;
+}
+
+#img2{
+	width: 4%;
+}
+
+.card{
+	text-align: center;
+	margin-top: 30px;
+	padding: 20px;
+}
+
+.ImagenDash
+{
+	width: 7%;
+	margin-left: 10px;
+}
+.container{
+	margin-top: 20px;
+}
+
+.nav{
+	padding: 10px;
+	margin-bottom: 3px;
+	background: -webkit-linear-gradient(to right, #FF8E00, #5296f2);  
+	background: linear-gradient(to right, #FF8E00, #5296f2); 
+	-webkit-box-shadow: 1px 3px 16px -5px rgba(0,0,0,0.75);
+	-moz-box-shadow: 1px 3px 16px -5px rgba(0,0,0,0.75);
+	box-shadow: 1px 3px 16px -5px rgba(0,0,0,0.75);
+}
+
+.nav a{
+	color: white;
+	text-transform: uppercase;
+}
+
+.btn{
+	padding: 15px;
+	margin-top: 20px;
+	margin-bottom: 8px;
+	color: white;
+	background-color: #FF9A19;
+	text-transform: uppercase;
+}
+
+.btn:hover{
+	
+	background-color: #498dfc;
+}
